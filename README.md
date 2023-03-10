@@ -22,3 +22,8 @@ Added the option to add the sub estate ID to the report
 
 v2.41
 Fixed an issue where under some circumstances Alerts would get a 403 error
+
+v2.50
+New services have been added
+For MSP or EDB customers you can now turn on a menu that lists all the consoles and run a report for just one of them
+Added the ability to report just machines with issues

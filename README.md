@@ -11,17 +11,17 @@ Added code to work around missing viaLogin field in the API
 Added other code to better check for fields being present
 MacOS only reports the major and minor version (15.4). I am working with developement to find out why the API is not returning the 3rd decimal place (15.4.1)
 
-v2.50
-New services have been added
-For MSP or EDB customers you can now turn on a menu that lists all the consoles and run a report for just one of them
-Added the ability to report just machines with issues
-
 Version 2025.14
 Fixed the report not deleting the new processes from the report
 
 Version 2025.12
 Fixed an issue if the OS Platform key was missing
 Fixed missing Mac services with spaces
+
+v2.50
+New services have been added
+For MSP or EDB customers you can now turn on a menu that lists all the consoles and run a report for just one of them
+Added the ability to report just machines with issues
 
 v2.41
 Fixed an issue where under some circumstances Alerts would get a 403 error
